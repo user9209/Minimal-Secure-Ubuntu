@@ -15,4 +15,7 @@ Goal is to provide a minimal ubuntu installation as a secure environment.
 - Partition operations (gparted)
 - Network file access (Samba)
 
+## May
+- Only whitelist online banking sites
+
 * not implemented yet
